@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །སྨིན་བྱེད་དབང་དང་གྲོལ་ལམ་ཕྱག་རྒྱ་ཆེན་པོའི་གནད་དོན་གྱི་དྲི་བ་ལན་དུ་ཕུལ་བ་སྐལ་བཟང་དགའ་བྱེད་བདུད་རྩིའི་འདོད་འཇོ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  sku: TSD-TSE-10
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: Wish-Fulfiling Nectar of the Fortunate One:Answers to Questions on the Important
+      Points of Empowerments and Path of Mahamudra
+    bo: སྨིན་བྱེད་དབང་དང་གྲོལ་ལམ་ཕྱག་རྒྱ་ཆེན་པོའི་གནད་དོན་གྱི་དྲི་བ་ལན་དུ་ཕུལ་བ་སྐལ་བཟང་དགའ་བྱེད་བདུད་རྩིའི་འདོད་འཇོ་བཞུགས་སོ།།
+  collection:
+    en: Tsele Natsok Rangdrol Series–  Book 10
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།–  དེབ། ༡༠
+  author:
+    en: Tsele Natsok Rangdrol
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  pusblisher:
+    en: Tsadra Foundation Publishing
+    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
+  sku: TSD-TSE-10
+  category:
+    en: Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: TSD-TSE-10.epub
+  description:
+    en: ''
+    bo: ''
