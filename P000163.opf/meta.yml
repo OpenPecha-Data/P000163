@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000163
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྨིན་བྱེད་དབང་དང་གྲོལ་ལམ་ཕྱག་རྒྱ་ཆེན་པོའི་གནད་དོན་གྱི་དྲི་བ་ལན་དུ་ཕུལ་བ་སྐལ་བཟང་དགའ་བྱེད་བདུད་རྩིའི་འདོད་འཇོ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
-  sku: TSD-TSE-10
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - yigchung
+  id: TSD-TSE-10
 web_metadata:
   title:
     en: Wish-Fulfiling Nectar of the Fortunate One:Answers to Questions on the Important
